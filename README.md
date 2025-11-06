@@ -50,3 +50,6 @@ client/
 - Integrate with Fake Store API to populate products.
 - Robust error toasts and loading states.
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa1bb435-8d6e-49bc-a157-028f98ce8897" />
+
